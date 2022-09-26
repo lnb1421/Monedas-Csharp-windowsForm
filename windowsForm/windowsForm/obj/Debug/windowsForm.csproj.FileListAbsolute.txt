@@ -1,0 +1,7 @@
+F:\C#\windowsForm\windowsForm\bin\Debug\windowsForm.exe
+F:\C#\windowsForm\windowsForm\bin\Debug\windowsForm.pdb
+F:\C#\windowsForm\windowsForm\obj\Debug\windowsForm.csprojResolveAssemblyReference.cache
+F:\C#\windowsForm\windowsForm\obj\Debug\windowsForm.exe
+F:\C#\windowsForm\windowsForm\obj\Debug\windowsForm.pdb
+F:\C#\windowsForm\windowsForm\obj\Debug\windowsForm.MainForm.resources
+F:\C#\windowsForm\windowsForm\obj\Debug\windowsForm.csproj.GenerateResource.Cache
